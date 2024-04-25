@@ -1,0 +1,48 @@
+
+html {
+font-family: sans-serif;
+}
+
+h1{
+    background-color: #FFA384;
+    border-radius: 15px;
+    text-align: center;
+    text-transform: uppercase; 
+}
+
+body {
+background-color: #74BDCB;
+width: 50%;
+max-width: 800px;
+min-width: 480px;
+margin: 0 auto;
+text-align: center;
+}
+
+.ultimoResultado {
+color: blanchedalmond;
+padding: 3px;
+border-radius: 10px;
+}
+
+img{
+    height: 200px;
+    width: 170px;
+    border-radius: 50%;
+}
+
+
+
+#si{
+    background-color: #FFA384;
+    border-radius: 15px;
+    text-align: justify;
+}
+
+input{
+    border-radius: 15px;
+}
+
+button{
+    border-radius: 15px;
+}
